@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../PyFitLog/.idea/PyFitLog.iml" filepath="$PROJECT_DIR$/../PyFitLog/.idea/PyFitLog.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PySkyBargain.iml" filepath="$PROJECT_DIR$/.idea/PySkyBargain.iml" />
     </modules>
   </component>
